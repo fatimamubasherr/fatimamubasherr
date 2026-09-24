@@ -1,86 +1,126 @@
 <div align="center">
 
-# Fatima Mubasher
+# fatima mubasher
 
-### Computer Science · Artificial Intelligence · Computer Vision
+`computer science` · `ai` · `computer vision`
 
-**Building adaptive intelligent systems that learn from limited supervision  
-and operate in messy, real-world environments.**
+trying to build machines that can learn  
+when the world forgot to provide a clean dataset.
 
-`Adaptive AI` · `Computer Vision` · `Machine Learning` · `Human–AI Systems`
+(˶ᵔ ᵕ ᵔ˶)
+
+**new york → philadelphia → lahore**
 
 </div>
 
 ---
 
-## 🔬 Current Research
+### currently .ᐟ
 
-### Adaptive Visual Intelligence — *Learning What to Ask*
+**adaptive visual intelligence**
 
-> **How little human supervision does visual AI need to adapt to an unseen environment?**
+I started with a pretty normal idea:
 
-I am investigating **minimal-supervision adaptation for visual anomaly detection** — how visual AI systems behave under data scarcity and domain shift, and whether intelligently selected human feedback can help them adapt with fewer annotations.
+> use computer vision to find defects in garment manufacturing.
 
-The project grew from a practical problem I encountered in garment manufacturing: real production environments often do not have the large, clean, labelled datasets that modern AI systems assume already exist.
+then I went looking for the data.
 
-**Current focus**
+the data, unfortunately, had other plans.
 
-`Visual Anomaly Detection` · `Domain Shift` · `Sample-Efficient Adaptation`  
-`Uncertainty` · `Human Feedback` · `Industrial AI`
+(¬_¬")
 
-> 🧪 **Status:** Active research. Experiments, results, and reproducible code will be published as the work develops.
+factories don't always have giant labelled image archives sitting around,
+and asking people to create one just gives humans another job to do.
 
----
+so the question became more interesting:
 
-## Selected Work
+> **how little human help does a visual system need  
+> to adapt to somewhere it has never seen before?**
 
-### 🧠 Deep Reinforcement Learning
-Built an intelligent-agent project using **Deep Q-Learning**, experience replay, epsilon-greedy exploration, and target-network synchronization.
+right now I'm exploring
 
-### ◫ Interactive 3D Graphics
-Developed an interactive **C++ / OpenGL** scene with custom geometry, textures, lighting, camera navigation, and real-time rendering.
+`visual anomaly detection` · `domain shift` · `limited supervision`  
+`uncertainty` · `human feedback`
 
-### ⚙️ Software Engineering
-Computer science capstone work spanning **software architecture, algorithms and data structures, databases, testing, security, and system enhancement**.
-
----
-
-## Research Interests
-
-**Adaptive AI** · **Computer Vision** · **Machine Learning**  
-**Multimodal Intelligence** · **Human–AI Systems**  
-**Intelligent Manufacturing** · **Learning under Limited Supervision**
-
-I am particularly interested in AI systems that can recognize uncertainty, learn from sparse interaction, and remain useful when real-world data are incomplete, shifting, or expensive to label.
+mostly reading papers, running experiments,
+breaking things and then acting surprised when they break.
 
 ---
 
-## Technical Toolkit
+### things i've built ୨୧
 
-**Languages**  
-`Python` · `C++` · `Java` · `SQL`
+**deep reinforcement learning**  
+taught an agent to make decisions using deep Q-learning,
+experience replay and exploration.
 
-**AI & Computing**  
-`Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `Computer Vision`
+sometimes it even made the correct ones.
 
-**Engineering**  
-`Git/GitHub` · `OpenGL` · `Android Studio` · `JUnit` · `REST APIs`
+**3d graphics**  
+built an interactive world in C++ / OpenGL with custom geometry,
+textures, lighting and camera controls.
+
+proof that I can, in fact, create a world and still get lost in it.
+
+**software systems**  
+algorithms, databases, testing, security,
+mobile development and full-stack systems.
+
+a suspicious number of ways to produce an error message.
 
 ---
 
-## Background
+### things living in my head rent-free
 
-🎓 **B.S. Computer Science** — NY.   
-📍 Lahore, Pakistan
+`adaptive intelligence`  
+`computer vision`  
+`multimodal systems`  
+`learning with less data`  
+`human + ai systems`  
+`intelligent manufacturing`
 
-My work sits at the intersection of **computer science, intelligent systems, and real-world problems**. I am currently developing my research experience around adaptive visual intelligence while continuing to build across AI, graphics, and software engineering.
+I'm especially interested in machines that can say
+
+> *“I haven't seen this before.”*
+
+instead of confidently making something up.
+
+respectfully, same.
 
 ---
+
+### toolbox .ᐟ
+
+`python`　`c++`　`java`　`sql`
+
+`machine learning`　`deep learning`　`reinforcement learning`  
+`computer vision`　`opengl`　`git`
+
+currently adding more tools while pretending
+my existing tabs are under control.
+
+---
+
+### coordinates
+
+`new york` → `philadelphia` → `lahore`
+
+computer science / research / occasionally desserts
+
+currently building → **adaptive visual intelligence**
+
+<br>
 
 <div align="center">
 
-### Learn · Question · Adapt
+`learn → question → adapt`
 
-*Researching AI that needs less perfect data — and less work from humans — to become useful.*
+⋆｡°✩
+
+**if it works:** research  
+**if it doesn't:** also research
+
+(づ｡◕‿‿◕｡)づ
 
 </div>
+
+
