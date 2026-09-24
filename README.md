@@ -102,11 +102,9 @@ my existing tabs are under control.
 
 ### coordinates
 
-`new york` ~ `philadelphia` ~ `lahore`
-
 computer science / research / occasionally desserts
 
-currently building → **adaptive visual intelligence**
+currently building : **adaptive visual intelligence**
 
 <br>
 
