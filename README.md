@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile-banner.PNG" width="100%" alt="Fatima's research desk">
+</p>
 <div align="center">
 
 # fatima mubasher
