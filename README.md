@@ -102,7 +102,7 @@ my existing tabs are under control.
 
 ### coordinates
 
-`new york` → `philadelphia` → `lahore`
+`new york` ~ `philadelphia` ~ `lahore`
 
 computer science / research / occasionally desserts
 
