@@ -9,7 +9,7 @@ when the world forgot to provide a clean dataset.
 
 (˶ᵔ ᵕ ᵔ˶)
 
-**new york → philadelphia → lahore**
+**new york • philadelphia • lahore**
 
 </div>
 
